@@ -1,0 +1,23 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "Assemblyscript smart contract project setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "asp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timothyAgevi/NearProtocalHelloContract.git"
+  },
+  "keywords": [
+    "nearprotocal",
+    "sankore"
+  ],
+  "author": "timothyAgevi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timothyAgevi/NearProtocalHelloContract/issues"
+  },
+  "homepage": "https://github.com/timothyAgevi/NearProtocalHelloContract#readme"
+}
